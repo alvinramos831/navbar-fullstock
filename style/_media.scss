@@ -1,0 +1,92 @@
+@media only screen and (max-width: 768px){
+  .swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, 
+  .swiper-pagination-fraction {
+    position: relative;
+    bottom: 0px;
+    
+  }
+  .footer-contact {
+    font-size: 7px!important;
+  }
+
+}
+@media only screen and (max-width: 425px){
+  #container-sliderSub {
+    /* padding: 0px 2.9% !important; */
+    padding: 0px 6.9% 0px 13px!important;
+  }
+  div#bannerDescription2{
+    padding: 0px 5.9%;
+  }
+  #containerProducts {
+    padding: 0px 9.9%!important;
+  }
+  #infoAddress h5 {
+    text-align: center!important;
+    padding: 10% 2%;
+
+}
+#infoAddress p {
+  letter-spacing: 0.5px!important;
+  width: 35%!important;
+  line-height: 1.6!important;
+  text-align: initial!important;
+}
+.footer-info {
+  padding: 6.7%!important;
+  width: 66%!important;
+}
+img#nerilogo {
+  display:none;
+}
+div#bannerDescription {
+  padding: 0px 5% 0px 6%;
+}
+.footer-contact {
+  font-size: 12px!important;
+  display: inline-grid;
+  text-align: inherit!important;
+}
+.hr {
+  padding-left: 0!important;
+  padding-right: 0!important;
+}
+.copyright {
+  padding: 0% 18%;
+  padding-bottom: 7%;
+  text-align: start!important;
+}
+.footer-follow {
+  padding-left: 7%!important;
+}
+.viewAll-container{
+  text-align: center;
+  padding: 13% 0%;
+  .viewallProduct {
+    position: relative;
+    padding: 12px 27px;
+    background-color: #00ff00;
+    color: #0f0f0f;
+    font-size: 12px;
+    font-family: Montserrat;
+    font-weight: bold;
+    border: none;
+    border-radius: 71px;
+    display: inline;
+}
+}
+
+#containerComfort p {
+  text-align: center!important; 
+  width: auto!important;
+  padding: 0% 0%!important;
+}
+}
+@media only screen and (max-width: 375px){
+#infoAddress p {
+ 
+  width: 50%!important;
+}
+}
+
+
